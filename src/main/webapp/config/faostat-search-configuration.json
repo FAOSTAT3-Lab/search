@@ -1,0 +1,6 @@
+{
+	"datasource":   "faostat2",
+	"baseurlcodes": "faostat3.fao.org",
+	"baseurlwds":   "faostat3.fao.org",
+    "gatewayURL":   "faostat3.fao.org"
+}
